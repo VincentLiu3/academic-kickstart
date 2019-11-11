@@ -22,6 +22,7 @@ bio: I am a PhD sutdent working on reinforcement learning at University of Alber
 
 interests:
 - Reinforcement Learning
+- Differential Privacy
 
 education:
   courses:
@@ -31,7 +32,7 @@ education:
   - course: MSc in Statistical Machine Learning
     institution: University of Alberta
     year: 2019
-  - course: BBA
+  - course: Bachelor of Business Administration
     institution: Nataional Taiwan University
     year: 2017
 
@@ -66,4 +67,7 @@ email: ""
 # user_groups:
 # - Researchers
 # - Visitors
+---
+I am a PhD student at the University of Alberta, supervised by Prof. Martha White. I am broadly interested in sequential decision making in real life.
+ 
 
