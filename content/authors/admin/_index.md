@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD sutdent working on reinforcement learning at University of Alberta.
+bio: I am a PhD student working on reinforcement learning at University of Alberta.
 
 interests:
 - Reinforcement Learning
@@ -32,8 +32,8 @@ education:
   - course: MSc in Statistical Machine Learning
     institution: University of Alberta
     year: 2019
-  - course: Bachelor of Business Administration
-    institution: Nataional Taiwan University
+  - course: BBA in Operations Management 
+    institution: National Taiwan University
     year: 2017
 
 # Social/Academic Networking
@@ -68,6 +68,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I am a PhD student at the University of Alberta, supervised by Prof. Martha White. I am broadly interested in sequential decision making in real life.
+I am currently a PhD student in the [RLAI Lab](http://rlai.ualberta.ca/) at the University of Alberta, working with [Professor Martha White](http://webdocs.cs.ualberta.ca/~whitem/). I am interested in sequential decision making in the real world.
  
 
