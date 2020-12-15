@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computing Science
+  - course: PhD in Statistical Machine Learning
     institution: University of Alberta
     year: 2023
   - course: MSc in Statistical Machine Learning
@@ -68,6 +68,6 @@ email: ""
 # - Researchers
 # - Visitors
 ---
-I am currently a PhD student in the [RLAI Lab](http://rlai.ualberta.ca/) at the University of Alberta, working with [Professor Martha White](http://webdocs.cs.ualberta.ca/~whitem/). I am interested in sequential decision making in the real world.
+I am currently a PhD student in the [RLAI Lab](http://rlai.ualberta.ca/) at the University of Alberta, working with Professor [Martha White](http://webdocs.cs.ualberta.ca/~whitem/). I am interested in sequential decision making in the real world, and my goal is to develop practical reinforcement learning algorithms with theoretical guarantees. 
  
 
